@@ -6,12 +6,12 @@
 <h3 align="center">I'm searching for AI</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=toanngyxn1203&label=Profile%20views&color=0e75b6&style=flat" alt="toanngyxn1203" />
+    <img src="https://komarev.com/ghpvc/?username=noaft&label=Profile%20views&color=0e75b6&style=flat" alt="noaft" />
 </p>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=toanngyxn1203" alt="toanngyxn1203" />
+        <img src="https://github-profile-trophy.vercel.app/?username=noaft" alt="noaft" />
     </a>
 </p>
 
@@ -92,13 +92,13 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toanngyxn1203&show_icons=true&locale=en&layout=compact" alt="toanngyxn1203" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noaft&show_icons=true&locale=en&layout=compact" alt="noaft" />
 </p>
 
 <p align="center">&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=toanngyxn1203&show_icons=true&locale=en" alt="toanngyxn1203" />
+    <img src="https://github-readme-stats.vercel.app/api?username=noaft&show_icons=true&locale=en" alt="noaft" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=toanngyxn1203&" alt="toanngyxn1203" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=noaft&" alt="noaft" />
 </p>
