@@ -8,6 +8,3 @@
 - 🔭 I’m currently studying at **UIT-TP.HCM**
 
 - 📫 How to reach me **nvantoan1203@gmail.com**
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiLeeTran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
